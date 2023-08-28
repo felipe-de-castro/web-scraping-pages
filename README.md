@@ -18,3 +18,6 @@ Here's a quick rundown of what I accomplished:
 - This project was more than just extracting data; it was an exercise in combining technical skills with an appreciation for literature. It taught me the art of data curation and presentation, allowing me to tell a story through numbers and visuals.
 
 💡 If you're curious about the world of books, data, and how they can intertwine beautifully, feel free to explore the dashboard here.
+
+Gif showing the code and web page:
+![Alt text](image/web_scraping.gif)
